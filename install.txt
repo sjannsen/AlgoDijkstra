@@ -1,0 +1,2 @@
+conda config --prepend channels conda-forge
+conda create -n algoprak3 --strict-channel-priority osmnx jupyterlab plotly
